@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license                        = { type: 'MIT', file: 'LICENSE' }
   s.homepage                       = 'https://stripe.com/docs/mobile/ios'
   s.authors                        = { 'Stripe' => 'support+github@stripe.com' }
-  s.source                         = { git: 'https://github.com/Kyald1412/stripe-ios.git', tag: s.version.to_s }
+  s.source                         = { git: 'https://github.com/Kyald1412/StripePayments-IDR.git', tag: s.version.to_s }
   s.frameworks                     = 'Foundation', 'UIKit'
   s.requires_arc                   = true
   s.platform                       = :ios
